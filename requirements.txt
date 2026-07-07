@@ -1,6 +1,6 @@
-Pandas == 2.2.2
-NumPy == 2.0.2
-Scikit-Learn == 1.6.1
-Matplotlib == 3.10.0
-Seaborn == 0.13.2
-Imblearn == 0.14.2
+Pandas==2.2.2
+NumPy==2.0.2
+Scikit-Learn==1.6.1
+Matplotlib==3.10.0
+Seaborn==0.13.2
+imbalanced-learn==0.14.2
